@@ -46,4 +46,4 @@ AirCNC is a project that connects people that need to rent rooms for Dev and mee
 
 ---
 
-Feito com ♥ by Scarpellini :shipit: 
+Made with ♥ by Scarpellini :shipit: 
